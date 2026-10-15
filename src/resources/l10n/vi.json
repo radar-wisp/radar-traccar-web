@@ -590,6 +590,7 @@
     "notificatorFirebase": "Thông báo đẩy",
     "notificatorTraccar": "Thông báo đẩy",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Phát lại",

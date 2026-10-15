@@ -590,6 +590,7 @@
     "notificatorFirebase": "পুশ বিজ্ঞপ্তি",
     "notificatorTraccar": "পুশ বিজ্ঞপ্তি",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "পুনরায় দেখুন",

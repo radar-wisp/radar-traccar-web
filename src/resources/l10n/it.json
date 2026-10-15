@@ -590,6 +590,7 @@
     "notificatorFirebase": "Notifica push",
     "notificatorTraccar": "Notifica push",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Riproduci percorso",

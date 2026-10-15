@@ -590,6 +590,7 @@
     "notificatorFirebase": "Pemberitahuan tolak",
     "notificatorTraccar": "Pemberitahuan tolak",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Main semula",

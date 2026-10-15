@@ -590,6 +590,7 @@
     "notificatorFirebase": "Stootkennisgewing",
     "notificatorTraccar": "Stootkennisgewing",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Speel weer af",

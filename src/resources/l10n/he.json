@@ -590,6 +590,7 @@
     "notificatorFirebase": "התראת דחיפה",
     "notificatorTraccar": "התראת דחיפה",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "הפעלה חוזרת",

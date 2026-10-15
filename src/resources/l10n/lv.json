@@ -590,6 +590,7 @@
     "notificatorFirebase": "Pašpiegādes paziņojums",
     "notificatorTraccar": "Pašpiegādes paziņojums",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Atkārtot",

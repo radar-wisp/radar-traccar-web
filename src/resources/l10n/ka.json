@@ -590,6 +590,7 @@
     "notificatorFirebase": "პუშშეტყობინება",
     "notificatorTraccar": "პუშშეტყობინება",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "გამეორება",

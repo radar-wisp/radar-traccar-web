@@ -590,6 +590,7 @@
     "notificatorFirebase": "„Push“ pranešimas",
     "notificatorTraccar": "„Push“ pranešimas",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Atkurti maršrutą",

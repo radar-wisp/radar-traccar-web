@@ -590,6 +590,7 @@
     "notificatorFirebase": "إشعار فوري",
     "notificatorTraccar": "إشعار فوري",
     "notificatorTelegram": "تيليغرام",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "إعادة تشغيل",

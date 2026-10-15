@@ -591,6 +591,7 @@
     "notificatorFirebase": "Push Notification",
     "notificatorTraccar": "Push Notification",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Replay",

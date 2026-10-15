@@ -590,6 +590,7 @@
     "notificatorFirebase": "පුෂ් දැනුම්දීම",
     "notificatorTraccar": "පුෂ් දැනුම්දීම",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "නැවත ධාවනය කරන්න",

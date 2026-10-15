@@ -590,6 +590,7 @@
     "notificatorFirebase": "การแจ้งเตือนแบบพุช",
     "notificatorTraccar": "การแจ้งเตือนแบบพุช",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "เล่นซ้ำ",

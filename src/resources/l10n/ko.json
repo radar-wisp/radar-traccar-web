@@ -590,6 +590,7 @@
     "notificatorFirebase": "푸시 알림",
     "notificatorTraccar": "푸시 알림",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "리플레이",

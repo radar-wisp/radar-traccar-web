@@ -590,6 +590,7 @@
     "notificatorFirebase": "ການແຈ້ງເຕືອນແບບພຸຊ",
     "notificatorTraccar": "ການແຈ້ງເຕືອນແບບພຸຊ",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "ຫຼິ້ນຄືນ",

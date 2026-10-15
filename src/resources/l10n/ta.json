@@ -590,6 +590,7 @@
     "notificatorFirebase": "புஷ் அறிவிப்பு",
     "notificatorTraccar": "புஷ் அறிவிப்பு",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "மீண்டும் இயக்கு",

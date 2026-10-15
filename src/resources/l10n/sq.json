@@ -590,6 +590,7 @@
     "notificatorFirebase": "Njoftim push",
     "notificatorTraccar": "Njoftim push",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Riluaj",

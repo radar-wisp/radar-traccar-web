@@ -590,6 +590,7 @@
     "notificatorFirebase": "Push-хабарландыру",
     "notificatorTraccar": "Push-хабарландыру",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Қайта ойнату",

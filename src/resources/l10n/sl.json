@@ -590,6 +590,7 @@
     "notificatorFirebase": "Potisno obvestilo",
     "notificatorTraccar": "Potisno obvestilo",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Ponovi",

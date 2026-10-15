@@ -590,6 +590,7 @@
     "notificatorFirebase": "Push-хабарнома",
     "notificatorTraccar": "Push-хабарнома",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Қайта кўриш",

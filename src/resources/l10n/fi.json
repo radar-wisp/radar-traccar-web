@@ -590,6 +590,7 @@
     "notificatorFirebase": "Ponnahdusilmoitus",
     "notificatorTraccar": "Ponnahdusilmoitus",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Toista",

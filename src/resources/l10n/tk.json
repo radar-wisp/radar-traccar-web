@@ -590,6 +590,7 @@
     "notificatorFirebase": "Push duýduryşy",
     "notificatorTraccar": "Push duýduryşy",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Gaýtadan görkezmek",

@@ -590,6 +590,7 @@
     "notificatorFirebase": "ការជូនដំណឹងរុញ",
     "notificatorTraccar": "ការជូនដំណឹងរុញ",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "ចាក់ឡើងវិញ",

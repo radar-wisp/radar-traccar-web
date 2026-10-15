@@ -590,6 +590,7 @@
     "notificatorFirebase": "Arifa zinazotumwa moja kwa moja",
     "notificatorTraccar": "Arifa zinazotumwa moja kwa moja",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Cheza tena",

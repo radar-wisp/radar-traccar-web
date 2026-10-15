@@ -590,6 +590,7 @@
     "notificatorFirebase": "Push obavijest",
     "notificatorTraccar": "Push obavijest",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Reprodukcija",

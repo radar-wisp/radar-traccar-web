@@ -590,6 +590,7 @@
     "notificatorFirebase": "Түлхэх мэдэгдэл",
     "notificatorTraccar": "Түлхэх мэдэгдэл",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Дахин тоглуулах",

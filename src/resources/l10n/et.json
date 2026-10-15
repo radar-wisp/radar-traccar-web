@@ -590,6 +590,7 @@
     "notificatorFirebase": "Tõuketeavitus",
     "notificatorTraccar": "Tõuketeavitus",
     "notificatorTelegram": "Telegram",
+    "notificatorWebhook": "Webhook",
     "notificatorPushover": "Pushover",
     "notificatorWhatsapp": "WhatsApp",
     "reportReplay": "Taasesitus",
